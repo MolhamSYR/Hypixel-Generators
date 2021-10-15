@@ -1,0 +1,7 @@
+name: ItemGenerator
+main: me.skylordjay_.itemgenerator.ItemGenerator
+version: 1.0
+author: xHurricane
+description: ItemGenerators!
+commands:
+  generator:
