@@ -8,4 +8,12 @@ If You Want To Use This Plugin.. All What You Have To Do To Setup a Generator:
  Note: (At The Cooldown Argument, You Should Insert [Seconds * 20] Because Every 20 tick is a real life second).
 3. Have Fun :D ! If You Want To Remove the generator you look at the block that is producing the materials and do the command /generator remove
   
-  
+Example Of How It Should Work:
+ lets say i want it to drop iron ingots every 5 seconds!
+ *i'm looking at a block*
+ /generator set iron_ingot 100
+ Thats it!
+
+Q&A:
+Why You Put 100 At The Last Argument?
+Answer: Because every 20 ticks in minecraft is 1 second in real life!
